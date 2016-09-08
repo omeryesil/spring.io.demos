@@ -1,4 +1,4 @@
-group 'com.awapi.springboot.bootcamp'
+group 'com.awapi.bootcamp'
 version '1.0-SNAPSHOT'
 
 buildscript {

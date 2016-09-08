@@ -1,4 +1,4 @@
-package com.awapi.springboot.bootcamp;
+package com.awapi.bootcamp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

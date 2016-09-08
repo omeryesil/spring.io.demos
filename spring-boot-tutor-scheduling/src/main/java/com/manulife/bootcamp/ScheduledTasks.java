@@ -1,4 +1,4 @@
-package com.awapi.springboot.bootcamp;
+package com.awapi.bootcamp;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

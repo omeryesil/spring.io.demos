@@ -610,11 +610,11 @@
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.awapi.springboot.bootcamp.*" />
+          <option name="PATTERN" value="com.awapi.bootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.awapi.springboot.bootcamp.Application" />
+      <option name="MAIN_CLASS_NAME" value="com.awapi.bootcamp.Application" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />

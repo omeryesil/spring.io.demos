@@ -1,4 +1,4 @@
-package com.manulife.restservice.model;
+package com.awapi.springboot.restservice.model;
 
 
 public class Greeting {

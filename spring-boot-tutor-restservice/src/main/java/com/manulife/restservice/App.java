@@ -1,4 +1,4 @@
-package com.manulife.restservice;
+package com.awapi.springboot.restservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

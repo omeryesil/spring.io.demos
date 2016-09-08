@@ -1,4 +1,4 @@
-package com.manulife.bootcamp.model;
+package com.awapi.springboot.bootcamp.model;
 
 
 public class Greeting {

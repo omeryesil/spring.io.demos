@@ -1,7 +1,7 @@
-package com.manulife.bootcamp;
+package com.awapi.springboot.bootcamp;
 
 
-import com.manulife.bootcamp.model.Customer;
+import com.awapi.springboot.bootcamp.model.Customer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

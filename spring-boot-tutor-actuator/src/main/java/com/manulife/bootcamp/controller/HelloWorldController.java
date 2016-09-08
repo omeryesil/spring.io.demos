@@ -1,8 +1,8 @@
-package com.manulife.bootcamp.controller;
+package com.awapi.springboot.bootcamp.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-import com.manulife.bootcamp.model.Greeting;
+import com.awapi.springboot.bootcamp.model.Greeting;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

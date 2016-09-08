@@ -1,4 +1,4 @@
-package com.manulife.bootcamp;
+package com.awapi.springboot.bootcamp;
 
 
 import org.springframework.boot.SpringApplication;

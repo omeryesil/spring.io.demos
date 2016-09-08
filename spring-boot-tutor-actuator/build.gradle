@@ -1,4 +1,4 @@
-group 'com.manulife.bootcmap'
+group 'com.awapi.springboot.bootcmap'
 version '1.0-SNAPSHOT'
 
 buildscript {

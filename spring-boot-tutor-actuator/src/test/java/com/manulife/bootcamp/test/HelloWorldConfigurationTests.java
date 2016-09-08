@@ -1,8 +1,8 @@
-package com.manulife.bootcamp.test;
+package com.awapi.springboot.bootcamp.test;
 
 import java.util.Map;
 
-import com.manulife.bootcamp.HelloWorldConfiguration;
+import com.awapi.springboot.bootcamp.HelloWorldConfiguration;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

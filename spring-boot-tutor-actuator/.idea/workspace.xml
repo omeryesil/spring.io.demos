@@ -691,11 +691,11 @@
     <configuration default="false" name="HelloWorldConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.manulife.bootcamp.model.*" />
+          <option name="PATTERN" value="com.awapi.springboot.bootcamp.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.manulife.bootcamp.HelloWorldConfiguration" />
+      <option name="MAIN_CLASS_NAME" value="com.awapi.springboot.bootcamp.HelloWorldConfiguration" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />

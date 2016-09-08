@@ -1,10 +1,10 @@
-package com.manulife.restservice.controller;
+package com.awapi.springboot.restservice.controller;
 
 
 
 import java.util.concurrent.atomic.AtomicLong;
 
-import com.manulife.restservice.model.Greeting;
+import com.awapi.springboot.restservice.model.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

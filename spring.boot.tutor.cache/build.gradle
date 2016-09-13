@@ -29,4 +29,14 @@ targetCompatibility = 1.8
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-cache")
+<<<<<<< HEAD
 }
+=======
+}
+
+
+
+
+
+
+>>>>>>> a19016f4226af3e5605d7e804e5ba46e25cfd8af
